@@ -1,4 +1,4 @@
-# Nokia-5110-TFT
+# Nokia 5110 TFT
 Connect your Arduino to the ubiquitous Nokia 5110 TFT - see video #89 at https://www.youtube.com/RalphBacon
 
 I guess *everyone* has a 5110 TFT display in their components box so now's your chance to actually connect it up!
