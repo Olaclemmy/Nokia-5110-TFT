@@ -28,7 +28,7 @@ Pin				     Pin (__via voltage shifter__)
 
 1 RST--------- 6 - reset  
 2 CE---------- 7 - chip selection  
-3 DC---------- 5 - data/commands choice  
+3 DC---------- 5 - data/commands  
 4 DIN--------- 4 - serial data line  
 5 CLK--------- 3 - serial Clock   
 6 3.3V-------- VCC 3.3V ONLY  
